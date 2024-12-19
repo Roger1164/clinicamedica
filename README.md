@@ -25,6 +25,3 @@ $ npm start
 ```
 
 Abra o [http://localhost:3000/#/](http://localhost:3000/#/) no navegador.
-
-Link para interação com Sistema Figma.
-https://www.figma.com/design/Nh8Ag0upie8zswI8xikUDL/Cl%C3%ADnica-M%C3%A9dica?node-id=0-1&t=4FRDX2CxJrhfq2WZ-1
